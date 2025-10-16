@@ -17,7 +17,7 @@ Now, I’m aim to continue exploring how **hardware and software** can work toge
 ---
 
 ### 🧩 Projects  
-#### 🕒 [Contando Juntos](https://your-username.github.io/contando-juntos)
+#### 🕒 [Contando Juntos](https://diegochc17.github.io/contando-juntos)
 An inclusive classroom timer that uses music and animations to support neurodivergent students’ focus and emotional regulation.  
 - Built with HTML, CSS, JavaScript  
 - Designed with teacher feedback at *Creciendo Juntos*  
